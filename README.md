@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mark33sv
 
 - 🌱 I’m currently learning about GitHub and colaborate into with others programming code for HTML CSS +ReactNative
+- ✨ Now i'm practice React JS web developer... amazing! ✨ 
 
 This is my re-load the page over my user name.
 Ill pull others projects later
